@@ -1,3 +1,4 @@
+// Implement Trie (Prefix Tree)
 package main
 
 import "fmt"
